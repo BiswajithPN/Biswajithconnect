@@ -4,9 +4,9 @@
 
 **A High-Performance Minimalist Portfolio**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-id/deploy-status)](https://biswajithconnect.netlify.app/)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-00b4d8.svg)
-![License](https://img.shields.io/badge/License-MIT-important.svg)
+![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-00b4d8?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
 [**Live Demo**](https://biswajithconnect.netlify.app/) • [**Report Bug**](https://github.com/) • [**Request Feature**](https://github.com/)
 
@@ -34,10 +34,10 @@
 
 | Category | Technology |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) |
-| **Hosting** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
-| **Control** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) |
+| **Hosting** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
+| **Control** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
 
 ---
 
